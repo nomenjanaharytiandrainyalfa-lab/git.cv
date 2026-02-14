@@ -1,0 +1,45 @@
+.titre{
+    position: relative;
+    text-align: center;
+}
+.titre-mes{
+    position: relative;
+    justify-content: space-evenly;
+}
+.name{
+    color: #000;
+    position: relative;
+    text-align: center;
+    left: 250px;
+    margin-right: 100pX;
+    top: 30px;
+
+}
+img{
+    border-radius: 7%;
+    height: 300px;
+    width: 250px;
+    position: relative;
+    bottom: 160px;
+    margin-left: 400px;
+}
+.p1{
+    position: relative;
+    text-align: left;
+    left: 1100px;
+    margin-right: 300px;
+    bottom: 9px;
+    
+}
+
+.p2{
+    position: relative;
+    text-align: left;
+    word-spacing: 10px;
+    left: 200px;
+    bottom: 600px;
+}
+body{
+    background-color:white;
+    overflow-x: hidden;
+}
